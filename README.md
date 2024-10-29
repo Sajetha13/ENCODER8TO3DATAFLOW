@@ -1,10 +1,11 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+## ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
 **SOFTWARE REQUIRED:** 
+
 Quartus prime
 
 **THEORY**
@@ -58,8 +59,8 @@ or(y1,d2,d3,d6,d7);
 or(y2,d4,d5,d6,d7);
 endmodule
 ```
-Developed by: S.Sajetha
-RegisterNumber: 212223100049
+##### Developed by: S.Sajetha
+##### RegisterNumber: 212223100049
 
 ![Screenshot 2024-10-17 114956](https://github.com/user-attachments/assets/0015f546-6054-4a6a-bee9-01bcf16233da)
 
